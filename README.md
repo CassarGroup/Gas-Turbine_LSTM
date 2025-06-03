@@ -1,6 +1,6 @@
 # Estágio de Férias - Machine Learning em séries temporais - Redes Neurais Recorrentes
 ## Uso de 2 bibliotecas de Machine Learning (Pytorch e Lightning) para previsão de emissão de gases em um dataset sobre turbinas à gás
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 ![Liçenca MIT](http://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=for-the-badge)
 
 ### Descrição do Projeto
